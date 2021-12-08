@@ -1,0 +1,60 @@
+{
+    "listaProductos":[
+        {
+            "titulo": "Disco Duro 512MB",
+            "imagen": "https://cdn.pixabay.com/photo/2013/03/02/02/40/backup-89186_960_720.jpg",
+            "descripcion": "Disco duro de alto rendimiento",
+            "precio": "$200.000", 
+            "stock": 50
+        },
+        {
+            "titulo": "Audifonos",
+            "imagen": "https://cdn.pixabay.com/photo/2018/09/17/14/27/headphones-3683983__480.jpg",
+            "descripcion": "Audifonos con alta calidad de sonido",
+            "precio": "$50.000",
+            "stock": 50
+        },
+        {
+            "titulo": "Audifonos Inalambricos",
+            "imagen": "\\assets\\img2.jpg",
+            "precio": "$50.000",
+            "descripcion": "Audifonos con alta calidad de sonido",
+            "stock": 50
+        },
+        {
+            "titulo": "Disco Duro Estado Solido 1T",
+            "imagen": "\\assets\\img1.jpg",
+            "precio": "$400.000",
+            "descripcion": "Disco duro  alto rendimiento",
+            "stock": 50
+        },
+        {
+            "titulo": "Disco Duro Estado Solido 512MB",
+            "imagen": "\\assets\\img1.jpg",
+            "precio": "$200.000",
+            "descripcion": "Disco duro de alto rendimiento",
+            "stock": 50
+        },
+        {
+            "titulo": "Audifonos",
+            "imagen": "\\assets\\img2.jpg",
+            "precio": "$50.000",
+            "descripcion": "Audifonos con alta calidad de sonido",
+            "stock": 50
+        },
+        {
+            "titulo": "Audifonos Inalambricos",
+            "imagen": "\\assets\\img2.jpg",
+            "precio": "$50.000",
+            "descripcion": "Audifonos con alta calidad de sonido",
+            "stock": 50
+        },
+        {
+            "titulo": "Disco Duro Estado Solido 1T",
+            "imagen": "\\assets\\img1.jpg",
+            "precio": "$400.000",
+            "descripcion": "Disco duro  alto rendimiento",
+            "stock": 50
+        }
+    ]
+}
